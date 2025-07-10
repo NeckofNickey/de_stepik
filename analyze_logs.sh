@@ -75,3 +75,5 @@ fi
     ' "$log_file"
 
 } >> "$report_file"
+
+echo "Отчет сохранен в файл по пути " "$report_file"
